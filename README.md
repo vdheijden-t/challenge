@@ -20,7 +20,7 @@ NOTE: Multifactor Authentication has been set up in the org so an additional cod
 
 ## Part 2: Clone starter code from git repository
 
-Repository URL: https://git.arda.cf/iview20/interview-challenge
+Repository URL: https://git.arda.cf/iview20/interview-challenge</br>
 Username: iview20  
 Password: interview20
 
