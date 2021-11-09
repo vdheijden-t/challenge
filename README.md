@@ -13,7 +13,7 @@ Please note: It is **not** expected that you complete this challenge from memory
 
 ### Access to developer edition org
 
-URL: https://login.salesforce.com \
+URL: https://login.salesforce.com  
 Username: iview14@example.com \
 Password: interview14 \
 NOTE: Multifactor Authentication has been set up in the org so an additional code will be required to log in. We will provide this code to you when you attempt to log in.
