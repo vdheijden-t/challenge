@@ -4,7 +4,7 @@ For this scenario we have been requested to create a way that a user can quickly
 
 In this hands-on-challenge, you will be implementing a Lightning Web Component that will display the date of the last event as well as the date of the last task associated with an account record. A start for the UI in the Lightning Web Component has been provided. The Lightning Web Component will rely on an Apex class to retrieve the latest task record and the latest event record. The method that retrieves the last task has already been implemented and a stub for the method that will retrieve the last event has been provided. It's expected that unit tests are written for each method. Stubs of both the unit test methods and the test data setup have been provided in the test class.
 
-The new LWC should be displayed above the activity timeline. Here is a sample of what the LWC should look like once completed: \
+The new LWC should be displayed above the activity timeline. Here is a sample of what the LWC should look like once completed:  
 ![LWC Sample Image](images/sampleLwc.png)
 
 Please note: It is **not** expected that you complete this challenge from memory. Feel free to reference Salesforce developer documentation as you complete this challenge.
@@ -14,14 +14,14 @@ Please note: It is **not** expected that you complete this challenge from memory
 ### Access to developer edition org
 
 URL: https://login.salesforce.com  
-Username: iview14@example.com \
-Password: interview14 \
+Username: iview14@example.com  
+Password: interview14  
 NOTE: Multifactor Authentication has been set up in the org so an additional code will be required to log in. We will provide this code to you when you attempt to log in.
 
 ## Part 2: Clone starter code from git repository
 
-Repository URL: https://git.arda.cf/iview14/interview-project \
-Username: iview14 \
+Repository URL: https://git.arda.cf/iview14/interview-project  
+Username: iview14  
 Password: interview14
 
 ## Part 3: Implement code
