@@ -35,5 +35,5 @@ This includes the following tasks:
 
 ## Part 4: Deploy code to Salesforce and demo the results
 
-## Part 5: Commit completed code to git.
+## Part 5: Commit completed code to git
 Commit your changes to the same repository you cloned in part 2.
