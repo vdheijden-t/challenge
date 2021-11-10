@@ -14,15 +14,15 @@ Please note: It is **not** expected that you complete this challenge from memory
 ### Access to developer edition org
 
 URL: https://login.salesforce.com  
-Username: iview20@example.com  
-Password: intrview20  
+Username: <update username in fork>  
+Password: <update password in fork>  
 **NOTE:** Multifactor Authentication has been set up in the org so an additional code will be required to log in. We will provide this code to you when you attempt to log in.
 
 ## Part 2: Clone starter code from git repository
 
-Repository URL: https://git.arda.cf/iview20/interview-challenge  
-Username: iview20  
-Password: intrview20
+Repository URL: <URL of fork>  
+Username: <update username in fork>  
+Password: <update password in fork>  
 
 ## Part 3: Implement code
 
