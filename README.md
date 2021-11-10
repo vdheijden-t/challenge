@@ -37,5 +37,3 @@ This includes the following tasks:
 
 ## Part 5: Commit completed code to git.
 Commit your changes to the same repository you cloned in part 2.
-
-## Part 6: Celebrate!
