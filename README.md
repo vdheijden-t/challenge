@@ -16,15 +16,13 @@ Please note: It is **not** expected that you complete this challenge from memory
 ### Access to developer edition org
 
 URL: https://login.salesforce.com  
-Username: [update username in fork]  
-Password: [update password in fork]  
+Username: interview87@thrivent.com.interview  
+Password: interview!87  
 **NOTE:** Multifactor Authentication has been set up in the org so an additional code will be required to log in. We will provide this code to you when you attempt to log in.
 
 ## Part 2: Clone starter code from this git repository
 
-Repository URL: [URL of fork]  
-Username: [update username in fork]  
-Password: [update password in fork]  
+Repository URL: https://github.com/vdheijden-t/challenge/tree/interview87  
 
 ## Part 3: Implement code
 
@@ -38,7 +36,7 @@ This includes the following tasks:
 ## Part 4: Deploy code to Salesforce and demo the results
 
 ## Part 5: Commit completed code to git
-Commit your changes to the same repository you cloned in part 2.
+Fork the repository from part 2 and commit your changes.
 
 ## Optional Background Information
 For this scenario we have been requested to create a way that a user can quickly tell when the last task and the last event for the current account record occurred. Even though the activity timeline is great at providing a high level overview, it might be hard to see at a glance when the last event occurred vs. the last task. The ActivityDate on the Account record is great for showing the last date of activity overall but not so great for showing the date of the last event separately from the date of the last task.
